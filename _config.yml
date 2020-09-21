@@ -8,13 +8,10 @@ description: "We build your data science solutions!"
 
 # Team names, titles and social links
 people:
-- name: Denis Vrdoljak MIDS
+- name: Robert Foster
   pic: 1
-  position: Co-founder and CEO
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/mattstevenson2/
-
+  position: Data Scientist/Curriculum developer 
+  
 
 - name: Gunnar Kleemann MIDS PhD
   pic: 2
